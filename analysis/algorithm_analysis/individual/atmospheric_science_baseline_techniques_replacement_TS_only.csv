@@ -1,0 +1,8 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,11,39.29,39.29
+SVR,TS,8,28.57,67.86
+Random Forest,TS,3,10.71,78.57
+TSVD,TS,2,7.14,85.71
+Linear Regression,TS,2,7.14,92.85
+SVM,TS,1,3.57,96.42
+hybrid k-NN,TS,1,3.57,99.99

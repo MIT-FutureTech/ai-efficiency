@@ -1,0 +1,9 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Dijkstra Model,SC,4,25.0,25.0
+Lumerical MODE Model,SC,4,25.0,50.0
+Traditional Simulation Model,SC,3,18.75,68.75
+FEM,SC,1,6.25,75.0
+Interior-Point Model,SC,1,6.25,81.25
+Direct Topology Model,SC,1,6.25,87.5
+FVFDM,SC,1,6.25,93.75
+FDTD,SC,1,6.25,100.0

@@ -1,0 +1,30 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Logistic Regression,TS,29,15.43,15.43
+SVM,TS,15,7.98,23.41
+SVM (polynomial),TS,14,7.45,30.86
+SVM (radial-basis),TS,14,7.45,38.31
+SVM (sigmoid),TS,14,7.45,45.76
+SVM (linear kernel),TS,14,7.45,53.21
+LDA,TS,14,7.45,60.66
+NB,TS,13,6.91,67.57
+Random Forest,TS,12,6.38,73.95
+AdaBoost,TS,8,4.26,78.21
+Z-score,TS,7,3.72,81.93
+DT,TS,6,3.19,85.12
+PCA + Mahalanobis distance,TS,5,2.66,87.78
+ML (Other),TS,3,1.6,89.38
+B-spline FFD,SC,3,1.6,90.98
+k-NN,TS,3,1.6,92.58
+CFD,SC,2,1.06,93.64
+PCA with Mahalanobis distance,TS,1,0.53,94.17
+GB (Granger Matrix),TS,1,0.53,94.7
+XGBoost,TS,1,0.53,95.23
+GLMBOOST,TS,1,0.53,95.76
+GB (Pearson Matrix),TS,1,0.53,96.29
+Spectral Power + SVM,TS,1,0.53,96.82
+Graph + SVM,TS,1,0.53,97.35
+WT + SVM,TS,1,0.53,97.88
+GMM,TS,1,0.53,98.41
+DIS,TS,1,0.53,98.94
+GAMBOOST,TS,1,0.53,99.47
+AFQ Browser (linear z-score),TS,1,0.53,100.0

@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Matched Filter,SC,4,33.33,33.33
+FD,SC,4,33.33,66.66
+MAGPHYS,SC,3,25.0,91.66
+PPXF,SC,1,8.33,99.99

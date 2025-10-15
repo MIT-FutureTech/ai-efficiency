@@ -1,0 +1,42 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+EnergyPlus,SC,31,18.79,18.79
+Classical Extrapolation,SC,18,10.91,29.7
+Traditional Simulation Model,SC,16,9.7,39.4
+CFD,SC,16,9.7,49.1
+FEM,SC,7,4.24,53.34
+TRNSYS,SC,7,4.24,57.58
+All-Atom Simulation,SC,6,3.64,61.22
+MART,SC,5,3.03,64.25
+Navier-Stokes Model,SC,4,2.42,66.67
+G4MP2,SC,4,2.42,69.09
+Lumerical MODE Model,SC,4,2.42,71.51
+OPAL,SC,3,1.82,73.33
+MIC-CG Pressure Model,SC,3,1.82,75.15
+FDM,SC,2,1.21,76.36
+Spectral Model (Chebfun),SC,2,1.21,77.57
+Exact Solution (Numerical Model),SC,2,1.21,78.78
+Lorenz 96 Model,SC,2,1.21,79.99
+EPREM,SC,2,1.21,81.2
+Monte Carlo,SC,2,1.21,82.41
+NSGA-II,SC,2,1.21,83.62
+NLSE Model,SC,2,1.21,84.83
+TDDFT,SC,2,1.21,86.04
+DFT,SC,2,1.21,87.25
+PR-MART,SC,2,1.21,88.46
+POD-Galerkin,SC,2,1.21,89.67
+GEANT4,SC,2,1.21,90.88
+Branching Diffusion Model,SC,1,0.61,91.49
+FDTD,SC,1,0.61,92.1
+FVFDM,SC,1,0.61,92.71
+Interior-Point Model,SC,1,0.61,93.32
+Direct Topology Model,SC,1,0.61,93.93
+Bayesian analysis + XES,SC,1,0.61,94.54
+EM,SC,1,0.61,95.15
+Radiance Model,SC,1,0.61,95.76
+Linear Black-Scholes Model,SC,1,0.61,96.37
+ELCIRC,SC,1,0.61,96.98
+Pseudo-spectral Model,SC,1,0.61,97.59
+MLEM,SC,1,0.61,98.2
+G4MP2A,SC,1,0.61,98.81
+EPANET-GA,SC,1,0.61,99.42
+FMM (Fast Marching Method),SC,1,0.61,100.03

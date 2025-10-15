@@ -1,0 +1,158 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,104,9.85,9.85
+Random Forest,TS,65,6.16,16.01
+SVM,TS,56,5.3,21.31
+Logistic Regression,TS,51,4.83,26.14
+ARIMA,TS,31,2.94,29.08
+SVC,TS,31,2.94,32.02
+EnergyPlus,SC,31,2.94,34.96
+SVR,TS,29,2.75,37.71
+VAR,TS,27,2.56,40.27
+Traditional Simulation Model,SC,27,2.56,42.83
+Ensemble Forecast,SC,20,1.89,44.72
+NB,TS,19,1.8,46.52
+Longstaff-Schwartz Model,TS,19,1.8,48.32
+Random Forest Regressor (RFR),TS,18,1.7,50.02
+k-NN Regressor,TS,18,1.7,51.72
+Classical Extrapolation,SC,18,1.7,53.42
+CFD,SC,18,1.7,55.12
+k-NN,TS,17,1.61,56.73
+LDA,TS,16,1.52,58.25
+AdaBoost Regressor,TS,16,1.52,59.77
+DT,TS,16,1.52,61.29
+SVM (polynomial),TS,14,1.33,62.62
+SVM (radial-basis),TS,14,1.33,63.95
+SVM (sigmoid),TS,14,1.33,65.28
+SVM (linear kernel),TS,14,1.33,66.61
+XGBoost,TS,12,1.14,67.75
+Gaussian Processes,TS,11,1.04,68.79
+Bi-fidelity (BF),TS,9,0.85,69.64
+Genetic Algorithm,SC,9,0.85,70.49
+PLS-DA,TS,9,0.85,71.34
+AdaBoost,TS,9,0.85,72.19
+SUTRA,SC,8,0.76,72.95
+PCE,TS,8,0.76,73.71
+GDAPS,SC,8,0.76,74.47
+Linear Regression,TS,8,0.76,75.23
+GDML,TS,8,0.76,75.99
+Z-score,TS,7,0.66,76.65
+BDT,TS,7,0.66,77.31
+TRNSYS,SC,7,0.66,77.97
+FEM,SC,7,0.66,78.63
+Ensemble Model,TS,6,0.57,79.2
+BoW + Logistic Regression,TS,6,0.57,79.77
+All-Atom Simulation,SC,6,0.57,80.34
+Black-Scholes Model,SC,6,0.57,80.91
+Andersen and Broadie Model,SC,6,0.57,81.48
+Monte Carlo,SC,5,0.47,81.95
+MART,SC,5,0.47,82.42
+PCA + Mahalanobis distance,TS,5,0.47,82.89
+GB,TS,4,0.38,83.27
+Navier-Stokes Model,SC,4,0.38,83.65
+LDAPS,SC,4,0.38,84.03
+Lumerical MODE Model,SC,4,0.38,84.41
+Matched Filter,SC,4,0.38,84.79
+Dijkstra Model,SC,4,0.38,85.17
+IFS Model,SC,4,0.38,85.55
+IFS T42 Model,SC,4,0.38,85.93
+FD,SC,4,0.38,86.31
+COSMO-1,SC,4,0.38,86.69
+G4MP2,SC,4,0.38,87.07
+DARM,TS,4,0.38,87.45
+B-spline FFD,SC,3,0.28,87.73
+OPAL,SC,3,0.28,88.01
+GPR-MSM,TS,3,0.28,88.29
+MIC-CG Pressure Model,SC,3,0.28,88.57
+MAGPHYS,SC,3,0.28,88.85
+M–σ,TS,3,0.28,89.13
+QRS,TS,2,0.19,89.32
+Lorenz 96 Model,SC,2,0.19,89.51
+TSVD,TS,2,0.19,89.7
+Spectral Model (Chebfun),SC,2,0.19,89.89
+GBDT,TS,2,0.19,90.08
+StationSeeker,TS,2,0.19,90.27
+NSGA-II,SC,2,0.19,90.46
+GEANT4,SC,2,0.19,90.65
+SPCAM,SC,2,0.19,90.84
+Exact Solution (Numerical Model),SC,2,0.19,91.03
+EPREM,SC,2,0.19,91.22
+DFT,SC,2,0.19,91.41
+CONTAM,SC,2,0.19,91.6
+POD-Galerkin,SC,2,0.19,91.79
+NLSE Model,SC,2,0.19,91.98
+BoW + SVM,TS,2,0.19,92.17
+RTE + RRTMGP,SC,2,0.19,92.36
+FDM,SC,2,0.19,92.55
+BoW + Naive Bayes,TS,2,0.19,92.74
+Monte Carlo (Levenberg-Marquardt),SC,2,0.19,92.93
+SDM,TS,2,0.19,93.12
+CART,TS,2,0.19,93.31
+PR-MART,SC,2,0.19,93.5
+TDDFT,SC,2,0.19,93.69
+GMM,TS,1,0.09,93.78
+PPXF,SC,1,0.09,93.87
+FFT,SC,1,0.09,93.96
+GLCM + Color-Space,TS,1,0.09,94.05
+GLMBOOST,TS,1,0.09,94.14
+GAMBOOST,TS,1,0.09,94.23
+DIS,TS,1,0.09,94.32
+GB (Granger Matrix),TS,1,0.09,94.41
+WT + SVM,TS,1,0.09,94.5
+Graph + SVM,TS,1,0.09,94.59
+Linear Black-Scholes Model,SC,1,0.09,94.68
+Spectral Power + SVM,TS,1,0.09,94.77
+F2 Model,SC,1,0.09,94.86
+MLEM,SC,1,0.09,94.95
+Direct Topology Model,SC,1,0.09,95.04
+ImPACT,TS,1,0.09,95.13
+EAC4 Reanalyses,SC,1,0.09,95.22
+NOGWD Model,SC,1,0.09,95.31
+Heston Model,SC,1,0.09,95.4
+SABR 2FPDE,SC,1,0.09,95.49
+SABR Integration,SC,1,0.09,95.58
+Fourier-based Model,SC,1,0.09,95.67
+Brent's Model,SC,1,0.09,95.76
+HC Model,SC,1,0.09,95.85
+CEEMDAN,TS,1,0.09,95.94
+hybrid k-NN,TS,1,0.09,96.03
+F1 Model,SC,1,0.09,96.12
+ETKF-Q,SC,1,0.09,96.21
+SAPS-II,TS,1,0.09,96.3
+CFS,SC,1,0.09,96.39
+Barotropic Vorticity Model,SC,1,0.09,96.48
+ImPACT_BDT,TS,1,0.09,96.57
+EM,SC,1,0.09,96.66
+PR92 Model,SC,1,0.09,96.75
+Bayesian analysis + XES,SC,1,0.09,96.84
+STA/LTA,TS,1,0.09,96.93
+DTR,TS,1,0.09,97.02
+Radiance Model,SC,1,0.09,97.11
+SGD,TS,1,0.09,97.2
+Gaussian Process Regressor,TS,1,0.09,97.29
+FDTD,SC,1,0.09,97.38
+KSVD,TS,1,0.09,97.47
+FVFDM,SC,1,0.09,97.56
+Transformer-based Model,TS,1,0.09,97.65
+HoneyBee Daylight Model,SC,1,0.09,97.74
+ODP,TS,1,0.09,97.83
+FMM (Fast Marching Method),SC,1,0.09,97.92
+JMA Manual Picks,TS,1,0.09,98.01
+FilterPicker,TS,1,0.09,98.1
+Kurtosis,TS,1,0.09,98.19
+AFQ Browser (linear z-score),TS,1,0.09,98.28
+Markov Chain Monte Carlo,SC,1,0.09,98.37
+PCA with Mahalanobis distance,TS,1,0.09,98.46
+Handcrafted Features Baseline,TS,1,0.09,98.55
+EPANET-GA,SC,1,0.09,98.64
+Structural Homology Baseline,SC,1,0.09,98.73
+Lasso Regression,TS,1,0.09,98.82
+ELCIRC,SC,1,0.09,98.91
+Traditional Force Fields (TFF),SC,1,0.09,99.0
+G4MP2A,SC,1,0.09,99.09
+LOESS,TS,1,0.09,99.18
+Projection Pursuit Regression (PPR),TS,1,0.09,99.27
+Pseudo-spectral Model,SC,1,0.09,99.36
+Interior-Point Model,SC,1,0.09,99.45
+GB (Pearson Matrix),TS,1,0.09,99.54
+Branching Diffusion Model,SC,1,0.09,99.63
+Neural Networks (Other),TS,1,0.09,99.72

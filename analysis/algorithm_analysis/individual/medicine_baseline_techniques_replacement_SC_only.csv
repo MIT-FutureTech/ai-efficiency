@@ -1,0 +1,3 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+B-spline FFD,SC,3,60.0,60.0
+CFD,SC,2,40.0,100.0

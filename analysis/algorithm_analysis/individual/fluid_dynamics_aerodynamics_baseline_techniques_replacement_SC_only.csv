@@ -1,0 +1,12 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+CFD,SC,12,33.33,33.33
+MART,SC,5,13.89,47.22
+FEM,SC,4,11.11,58.33
+Navier-Stokes Model,SC,4,11.11,69.44
+MIC-CG Pressure Model,SC,3,8.33,77.77
+PR-MART,SC,2,5.56,83.33
+POD-Galerkin,SC,2,5.56,88.89
+Traditional Simulation Model,SC,1,2.78,91.67
+ELCIRC,SC,1,2.78,94.45
+Pseudo-spectral Model,SC,1,2.78,97.23
+EPANET-GA,SC,1,2.78,100.01

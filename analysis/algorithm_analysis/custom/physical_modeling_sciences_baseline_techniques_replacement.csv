@@ -1,0 +1,61 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,50,13.74,13.74
+EnergyPlus,SC,31,8.52,22.26
+Random Forest,TS,20,5.49,27.75
+k-NN Regressor,TS,18,4.95,32.7
+Classical Extrapolation,SC,18,4.95,37.65
+Random Forest Regressor (RFR),TS,18,4.95,42.6
+Traditional Simulation Model,SC,16,4.4,47.0
+CFD,SC,16,4.4,51.4
+AdaBoost Regressor,TS,16,4.4,55.8
+SVR,TS,14,3.85,59.65
+Gaussian Processes,TS,10,2.75,62.4
+Bi-fidelity (BF),TS,9,2.47,64.87
+GDML,TS,8,2.2,67.07
+PCE,TS,8,2.2,69.27
+FEM,SC,7,1.92,71.19
+TRNSYS,SC,7,1.92,73.11
+All-Atom Simulation,SC,6,1.65,74.76
+SVM,TS,6,1.65,76.41
+MART,SC,5,1.37,77.78
+Navier-Stokes Model,SC,4,1.1,78.88
+ARIMA,TS,4,1.1,79.98
+G4MP2,SC,4,1.1,81.08
+k-NN,TS,4,1.1,82.18
+Lumerical MODE Model,SC,4,1.1,83.28
+OPAL,SC,3,0.82,84.1
+GPR-MSM,TS,3,0.82,84.92
+MIC-CG Pressure Model,SC,3,0.82,85.74
+XGBoost,TS,3,0.82,86.56
+Linear Regression,TS,3,0.82,87.38
+GBDT,TS,2,0.55,87.93
+FDM,SC,2,0.55,88.48
+Spectral Model (Chebfun),SC,2,0.55,89.03
+Exact Solution (Numerical Model),SC,2,0.55,89.58
+Lorenz 96 Model,SC,2,0.55,90.13
+EPREM,SC,2,0.55,90.68
+Monte Carlo,SC,2,0.55,91.23
+NSGA-II,SC,2,0.55,91.78
+NLSE Model,SC,2,0.55,92.33
+TDDFT,SC,2,0.55,92.88
+DFT,SC,2,0.55,93.43
+PR-MART,SC,2,0.55,93.98
+QRS,TS,2,0.55,94.53
+POD-Galerkin,SC,2,0.55,95.08
+GEANT4,SC,2,0.55,95.63
+Branching Diffusion Model,SC,1,0.27,95.9
+FDTD,SC,1,0.27,96.17
+FVFDM,SC,1,0.27,96.44
+Interior-Point Model,SC,1,0.27,96.71
+Direct Topology Model,SC,1,0.27,96.98
+Bayesian analysis + XES,SC,1,0.27,97.25
+EM,SC,1,0.27,97.52
+Radiance Model,SC,1,0.27,97.79
+Linear Black-Scholes Model,SC,1,0.27,98.06
+ELCIRC,SC,1,0.27,98.33
+Pseudo-spectral Model,SC,1,0.27,98.6
+MLEM,SC,1,0.27,98.87
+G4MP2A,SC,1,0.27,99.14
+Lasso Regression,TS,1,0.27,99.41
+EPANET-GA,SC,1,0.27,99.68
+FMM (Fast Marching Method),SC,1,0.27,99.95

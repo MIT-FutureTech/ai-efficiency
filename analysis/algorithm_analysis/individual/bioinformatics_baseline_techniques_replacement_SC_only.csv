@@ -1,0 +1,3 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Traditional Simulation Model,SC,3,75.0,75.0
+Structural Homology Baseline,SC,1,25.0,100.0

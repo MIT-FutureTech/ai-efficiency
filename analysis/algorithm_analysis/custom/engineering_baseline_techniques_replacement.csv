@@ -1,0 +1,25 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+SVM,TS,8,17.02,17.02
+Random Forest,TS,6,12.77,29.79
+Dijkstra Model,SC,4,8.51,38.3
+k-NN,TS,3,6.38,44.68
+Genetic Algorithm,TS,3,6.38,51.06
+Traditional Simulation Model,SC,2,4.26,55.32
+NB,TS,2,4.26,59.58
+StationSeeker,TS,2,4.26,63.84
+DT,TS,2,4.26,68.1
+KSVD,TS,1,2.13,70.23
+Linear Regression,TS,1,2.13,72.36
+DTR,TS,1,2.13,74.49
+SVR,TS,1,2.13,76.62
+Gaussian Process Regressor,TS,1,2.13,78.75
+Logistic Regression,TS,1,2.13,80.88
+SGD,TS,1,2.13,83.01
+ODP,TS,1,2.13,85.14
+AdaBoost,TS,1,2.13,87.27
+Projection Pursuit Regression (PPR),TS,1,2.13,89.4
+LOESS,TS,1,2.13,91.53
+STA/LTA,TS,1,2.13,93.66
+Kurtosis,TS,1,2.13,95.79
+FilterPicker,TS,1,2.13,97.92
+JMA Manual Picks,TS,1,2.13,100.05

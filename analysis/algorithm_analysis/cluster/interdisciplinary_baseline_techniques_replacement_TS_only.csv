@@ -1,0 +1,12 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+SVC,TS,31,39.74,39.74
+Random Forest,TS,9,11.54,51.28
+XGBoost,TS,8,10.26,61.54
+DT,TS,8,10.26,71.8
+BoW + Logistic Regression,TS,6,7.69,79.49
+SVR,TS,5,6.41,85.9
+ML (Other),TS,4,5.13,91.03
+BoW + Naive Bayes,TS,2,2.56,93.59
+BoW + SVM,TS,2,2.56,96.15
+SVM,TS,2,2.56,98.71
+Transformer-based Model,TS,1,1.28,99.99

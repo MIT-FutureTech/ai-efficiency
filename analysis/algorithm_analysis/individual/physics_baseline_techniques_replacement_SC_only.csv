@@ -1,0 +1,18 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Classical Extrapolation,SC,18,38.3,38.3
+OPAL,SC,3,6.38,44.68
+CFD,SC,3,6.38,51.06
+Traditional Simulation Model,SC,2,4.26,55.32
+Monte Carlo,SC,2,4.26,59.58
+Spectral Model (Chebfun),SC,2,4.26,63.84
+Exact Solution (Numerical Model),SC,2,4.26,68.1
+FDM,SC,2,4.26,72.36
+EPREM,SC,2,4.26,76.62
+GEANT4,SC,2,4.26,80.88
+NLSE Model,SC,2,4.26,85.14
+Lorenz 96 Model,SC,2,4.26,89.4
+Branching Diffusion Model,SC,1,2.13,91.53
+Bayesian analysis + XES,SC,1,2.13,93.66
+FEM,SC,1,2.13,95.79
+NSGA-II,SC,1,2.13,97.92
+Linear Black-Scholes Model,SC,1,2.13,100.05

@@ -1,0 +1,8 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+k-NN Regressor,TS,18,25.0,25.0
+Random Forest Regressor (RFR),TS,18,25.0,50.0
+AdaBoost Regressor,TS,16,22.22,72.22
+SVR,TS,12,16.67,88.89
+Gaussian Processes,TS,3,4.17,93.06
+SVM,TS,3,4.17,97.23
+GBDT,TS,2,2.78,100.01

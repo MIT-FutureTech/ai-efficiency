@@ -1,0 +1,20 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Longstaff-Schwartz Model,TS,19,29.69,29.69
+Logistic Regression,TS,10,15.62,45.31
+Andersen and Broadie Model,SC,6,9.38,54.69
+Black-Scholes Model,SC,6,9.38,64.07
+SVM,TS,5,7.81,71.88
+Monte Carlo,SC,3,4.69,76.57
+Monte Carlo (Levenberg-Marquardt),SC,2,3.12,79.69
+CART,TS,2,3.12,82.81
+Heston Model,SC,1,1.56,84.37
+VAR,TS,1,1.56,85.93
+Random Forest,TS,1,1.56,87.49
+SABR Integration,SC,1,1.56,89.05
+SABR 2FPDE,SC,1,1.56,90.61
+FFT,SC,1,1.56,92.17
+ML (Other),TS,1,1.56,93.73
+CEEMDAN,TS,1,1.56,95.29
+ARIMA,TS,1,1.56,96.85
+SVR,TS,1,1.56,98.41
+Fourier-based Model,SC,1,1.56,99.97

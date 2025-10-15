@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Linear Regression,TS,3,33.33,33.33
+SVM,TS,2,22.22,55.55
+Random Forest,TS,2,22.22,77.77
+SVR,TS,2,22.22,99.99

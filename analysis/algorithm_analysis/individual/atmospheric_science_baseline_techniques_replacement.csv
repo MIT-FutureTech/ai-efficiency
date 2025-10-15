@@ -1,0 +1,25 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Ensemble Forecast,SC,20,22.99,22.99
+ML (Other),TS,11,12.64,35.63
+GDAPS,SC,8,9.2,44.83
+SVR,TS,8,9.2,54.03
+Traditional Simulation Model,SC,4,4.6,58.63
+LDAPS,SC,4,4.6,63.23
+IFS T42 Model,SC,4,4.6,67.83
+IFS Model,SC,4,4.6,72.43
+COSMO-1,SC,4,4.6,77.03
+Random Forest,TS,3,3.45,80.48
+TSVD,TS,2,2.3,82.78
+RTE + RRTMGP,SC,2,2.3,85.08
+Linear Regression,TS,2,2.3,87.38
+HC Model,SC,1,1.15,88.53
+F2 Model,SC,1,1.15,89.68
+CFS,SC,1,1.15,90.83
+Barotropic Vorticity Model,SC,1,1.15,91.98
+F1 Model,SC,1,1.15,93.13
+PR92 Model,SC,1,1.15,94.28
+SVM,TS,1,1.15,95.43
+NOGWD Model,SC,1,1.15,96.58
+hybrid k-NN,TS,1,1.15,97.73
+EAC4 Reanalyses,SC,1,1.15,98.88
+ETKF-Q,SC,1,1.15,100.03

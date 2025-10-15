@@ -1,0 +1,4 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+CONTAM,SC,2,50.0,50.0
+Linear Regression,TS,1,25.0,75.0
+HoneyBee Daylight Model,SC,1,25.0,100.0

@@ -1,0 +1,6 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+SVM,TS,12,41.38,41.38
+PLS-DA,TS,9,31.03,72.41
+ML (Other),TS,6,20.69,93.1
+GLCM + Color-Space,TS,1,3.45,96.55
+Linear Regression,TS,1,3.45,100.0

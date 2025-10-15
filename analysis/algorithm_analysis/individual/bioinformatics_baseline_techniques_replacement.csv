@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,17,77.27,77.27
+Traditional Simulation Model,SC,3,13.64,90.91
+Structural Homology Baseline,SC,1,4.55,95.46
+Handcrafted Features Baseline,TS,1,4.55,100.01

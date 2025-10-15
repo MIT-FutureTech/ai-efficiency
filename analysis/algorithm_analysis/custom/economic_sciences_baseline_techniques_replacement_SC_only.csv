@@ -1,0 +1,10 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Andersen and Broadie Model,SC,6,27.27,27.27
+Black-Scholes Model,SC,6,27.27,54.54
+Monte Carlo,SC,3,13.64,68.18
+Monte Carlo (Levenberg-Marquardt),SC,2,9.09,77.27
+FFT,SC,1,4.55,81.82
+Heston Model,SC,1,4.55,86.37
+SABR 2FPDE,SC,1,4.55,90.92
+SABR Integration,SC,1,4.55,95.47
+Fourier-based Model,SC,1,4.55,100.02

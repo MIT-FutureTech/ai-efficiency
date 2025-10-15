@@ -1,0 +1,18 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+CFD,SC,12,19.35,19.35
+Bi-fidelity (BF),TS,9,14.52,33.87
+Gaussian Processes,TS,6,9.68,43.55
+MART,SC,5,8.06,51.61
+PCE,TS,4,6.45,58.06
+FEM,SC,4,6.45,64.51
+Navier-Stokes Model,SC,4,6.45,70.96
+GPR-MSM,TS,3,4.84,75.8
+MIC-CG Pressure Model,SC,3,4.84,80.64
+QRS,TS,2,3.23,83.87
+PR-MART,SC,2,3.23,87.1
+POD-Galerkin,SC,2,3.23,90.33
+ML (Other),TS,2,3.23,93.56
+Traditional Simulation Model,SC,1,1.61,95.17
+ELCIRC,SC,1,1.61,96.78
+Pseudo-spectral Model,SC,1,1.61,98.39
+EPANET-GA,SC,1,1.61,100.0

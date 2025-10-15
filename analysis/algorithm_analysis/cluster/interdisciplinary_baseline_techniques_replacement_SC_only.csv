@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Traditional Simulation Model,SC,2,40.0,40.0
+Markov Chain Monte Carlo,SC,1,20.0,60.0
+Brent's Model,SC,1,20.0,80.0
+Traditional Force Fields (TFF),SC,1,20.0,100.0

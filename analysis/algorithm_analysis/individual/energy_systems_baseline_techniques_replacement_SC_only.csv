@@ -1,0 +1,8 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+EnergyPlus,SC,31,72.09,72.09
+TRNSYS,SC,7,16.28,88.37
+CFD,SC,1,2.33,90.7
+NSGA-II,SC,1,2.33,93.03
+Radiance Model,SC,1,2.33,95.36
+Traditional Simulation Model,SC,1,2.33,97.69
+FMM (Fast Marching Method),SC,1,2.33,100.02

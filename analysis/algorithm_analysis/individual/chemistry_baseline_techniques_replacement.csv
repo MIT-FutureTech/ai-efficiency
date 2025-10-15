@@ -1,0 +1,6 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+GDML,TS,8,50.0,50.0
+G4MP2,SC,4,25.0,75.0
+DFT,SC,2,12.5,87.5
+G4MP2A,SC,1,6.25,93.75
+Lasso Regression,TS,1,6.25,100.0

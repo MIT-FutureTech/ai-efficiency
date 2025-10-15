@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,43,63.24,63.24
+Random Forest,TS,18,26.47,89.71
+k-NN,TS,4,5.88,95.59
+XGBoost,TS,3,4.41,100.0

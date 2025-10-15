@@ -1,0 +1,8 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Logistic Regression,TS,1,14.29,14.29
+NB,TS,1,14.29,28.58
+k-NN,TS,1,14.29,42.87
+DT,TS,1,14.29,57.16
+Random Forest,TS,1,14.29,71.45
+SGD,TS,1,14.29,85.74
+AdaBoost,TS,1,14.29,100.03

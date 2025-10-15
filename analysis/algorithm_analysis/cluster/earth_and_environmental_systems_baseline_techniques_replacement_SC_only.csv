@@ -1,0 +1,27 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Ensemble Forecast,SC,20,22.22,22.22
+GDAPS,SC,8,8.89,31.11
+SUTRA,SC,8,8.89,40.0
+Genetic Algorithm,SC,6,6.67,46.67
+LDAPS,SC,4,4.44,51.11
+IFS T42 Model,SC,4,4.44,55.55
+Traditional Simulation Model,SC,4,4.44,59.99
+Matched Filter,SC,4,4.44,64.43
+COSMO-1,SC,4,4.44,68.87
+FD,SC,4,4.44,73.31
+IFS Model,SC,4,4.44,77.75
+MAGPHYS,SC,3,3.33,81.08
+RTE + RRTMGP,SC,2,2.22,83.3
+CONTAM,SC,2,2.22,85.52
+SPCAM,SC,2,2.22,87.74
+F1 Model,SC,1,1.11,88.85
+PPXF,SC,1,1.11,89.96
+HC Model,SC,1,1.11,91.07
+PR92 Model,SC,1,1.11,92.18
+CFS,SC,1,1.11,93.29
+F2 Model,SC,1,1.11,94.4
+ETKF-Q,SC,1,1.11,95.51
+Barotropic Vorticity Model,SC,1,1.11,96.62
+NOGWD Model,SC,1,1.11,97.73
+EAC4 Reanalyses,SC,1,1.11,98.84
+HoneyBee Daylight Model,SC,1,1.11,99.95

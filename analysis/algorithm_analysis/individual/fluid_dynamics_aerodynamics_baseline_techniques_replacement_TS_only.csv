@@ -1,0 +1,7 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Bi-fidelity (BF),TS,9,34.62,34.62
+Gaussian Processes,TS,6,23.08,57.7
+PCE,TS,4,15.38,73.08
+GPR-MSM,TS,3,11.54,84.62
+QRS,TS,2,7.69,92.31
+ML (Other),TS,2,7.69,100.0

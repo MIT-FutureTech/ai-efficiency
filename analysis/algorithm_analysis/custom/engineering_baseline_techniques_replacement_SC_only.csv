@@ -1,0 +1,3 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Dijkstra Model,SC,4,66.67,66.67
+Traditional Simulation Model,SC,2,33.33,100.0

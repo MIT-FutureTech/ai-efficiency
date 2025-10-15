@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+VAR,TS,26,44.83,44.83
+ARIMA,TS,26,44.83,89.66
+DARM,TS,4,6.9,96.56
+ML (Other),TS,2,3.45,100.01

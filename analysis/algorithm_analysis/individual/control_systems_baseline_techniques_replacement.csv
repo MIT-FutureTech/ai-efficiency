@@ -1,0 +1,3 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Random Forest,TS,4,50.0,50.0
+SVM,TS,4,50.0,100.0

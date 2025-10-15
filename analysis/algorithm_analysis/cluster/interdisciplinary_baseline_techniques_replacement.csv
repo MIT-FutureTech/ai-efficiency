@@ -1,0 +1,16 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+SVC,TS,31,37.35,37.35
+Random Forest,TS,9,10.84,48.19
+XGBoost,TS,8,9.64,57.83
+DT,TS,8,9.64,67.47
+BoW + Logistic Regression,TS,6,7.23,74.7
+SVR,TS,5,6.02,80.72
+ML (Other),TS,4,4.82,85.54
+Traditional Simulation Model,SC,2,2.41,87.95
+BoW + Naive Bayes,TS,2,2.41,90.36
+BoW + SVM,TS,2,2.41,92.77
+SVM,TS,2,2.41,95.18
+Transformer-based Model,TS,1,1.2,96.38
+Markov Chain Monte Carlo,SC,1,1.2,97.58
+Brent's Model,SC,1,1.2,98.78
+Traditional Force Fields (TFF),SC,1,1.2,99.98

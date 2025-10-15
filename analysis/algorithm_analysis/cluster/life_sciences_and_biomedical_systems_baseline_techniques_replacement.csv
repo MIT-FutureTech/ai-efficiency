@@ -1,0 +1,38 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Logistic Regression,TS,29,11.79,11.79
+SVM,TS,27,10.98,22.77
+ML (Other),TS,26,10.57,33.34
+SVM (sigmoid),TS,14,5.69,39.03
+LDA,TS,14,5.69,44.72
+SVM (linear kernel),TS,14,5.69,50.41
+SVM (polynomial),TS,14,5.69,56.1
+SVM (radial-basis),TS,14,5.69,61.79
+NB,TS,13,5.28,67.07
+Random Forest,TS,12,4.88,71.95
+PLS-DA,TS,9,3.66,75.61
+AdaBoost,TS,8,3.25,78.86
+Z-score,TS,7,2.85,81.71
+DT,TS,6,2.44,84.15
+Ensemble Model,TS,6,2.44,86.59
+PCA + Mahalanobis distance,TS,5,2.03,88.62
+B-spline FFD,SC,3,1.22,89.84
+k-NN,TS,3,1.22,91.06
+Traditional Simulation Model,SC,3,1.22,92.28
+CFD,SC,2,0.81,93.09
+GB (Granger Matrix),TS,1,0.41,93.5
+GB (Pearson Matrix),TS,1,0.41,93.91
+SAPS-II,TS,1,0.41,94.32
+Spectral Power + SVM,TS,1,0.41,94.73
+Graph + SVM,TS,1,0.41,95.14
+WT + SVM,TS,1,0.41,95.55
+GMM,TS,1,0.41,95.96
+XGBoost,TS,1,0.41,96.37
+Structural Homology Baseline,SC,1,0.41,96.78
+Handcrafted Features Baseline,TS,1,0.41,97.19
+GAMBOOST,TS,1,0.41,97.6
+GLMBOOST,TS,1,0.41,98.01
+GLCM + Color-Space,TS,1,0.41,98.42
+PCA with Mahalanobis distance,TS,1,0.41,98.83
+AFQ Browser (linear z-score),TS,1,0.41,99.24
+DIS,TS,1,0.41,99.65
+Neural Networks (Other),TS,1,0.41,100.06

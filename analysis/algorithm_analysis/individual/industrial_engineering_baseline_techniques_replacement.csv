@@ -1,0 +1,10 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Dijkstra Model,SC,4,30.77,30.77
+Traditional Simulation Model,SC,2,15.38,46.15
+Logistic Regression,TS,1,7.69,53.84
+NB,TS,1,7.69,61.53
+k-NN,TS,1,7.69,69.22
+DT,TS,1,7.69,76.91
+Random Forest,TS,1,7.69,84.6
+SGD,TS,1,7.69,92.29
+AdaBoost,TS,1,7.69,99.98

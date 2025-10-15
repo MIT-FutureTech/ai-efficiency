@@ -1,0 +1,14 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Random Forest,TS,12,20.69,20.69
+Logistic Regression,TS,11,18.97,39.66
+SVM,TS,7,12.07,51.73
+BDT,TS,7,12.07,63.8
+k-NN,TS,6,10.34,74.14
+ML (Other),TS,4,6.9,81.04
+M–σ,TS,3,5.17,86.21
+SDM,TS,2,3.45,89.66
+LDA,TS,2,3.45,93.11
+ImPACT,TS,1,1.72,94.83
+ImPACT_BDT,TS,1,1.72,96.55
+Gaussian Processes,TS,1,1.72,98.27
+Linear Regression,TS,1,1.72,99.99

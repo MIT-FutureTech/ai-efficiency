@@ -1,0 +1,43 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,21,11.05,11.05
+Ensemble Forecast,SC,20,10.53,21.58
+Random Forest,TS,17,8.95,30.53
+Logistic Regression,TS,11,5.79,36.32
+SUTRA,SC,8,4.21,40.53
+SVM,TS,8,4.21,44.74
+GDAPS,SC,8,4.21,48.95
+SVR,TS,8,4.21,53.16
+k-NN,TS,7,3.68,56.84
+BDT,TS,7,3.68,60.52
+Genetic Algorithm,SC,6,3.16,63.68
+COSMO-1,SC,4,2.11,65.79
+IFS T42 Model,SC,4,2.11,67.9
+NB,TS,4,2.11,70.01
+GB,TS,4,2.11,72.12
+Matched Filter,SC,4,2.11,74.23
+Traditional Simulation Model,SC,4,2.11,76.34
+LDAPS,SC,4,2.11,78.45
+IFS Model,SC,4,2.11,80.56
+FD,SC,4,2.11,82.67
+Linear Regression,TS,3,1.58,84.25
+MAGPHYS,SC,3,1.58,85.83
+M–σ,TS,3,1.58,87.41
+RTE + RRTMGP,SC,2,1.05,88.46
+SPCAM,SC,2,1.05,89.51
+TSVD,TS,2,1.05,90.56
+SDM,TS,2,1.05,91.61
+LDA,TS,2,1.05,92.66
+ETKF-Q,SC,1,0.53,93.19
+PPXF,SC,1,0.53,93.72
+Gaussian Processes,TS,1,0.53,94.25
+HC Model,SC,1,0.53,94.78
+F1 Model,SC,1,0.53,95.31
+F2 Model,SC,1,0.53,95.84
+ImPACT,TS,1,0.53,96.37
+CFS,SC,1,0.53,96.9
+Barotropic Vorticity Model,SC,1,0.53,97.43
+PR92 Model,SC,1,0.53,97.96
+EAC4 Reanalyses,SC,1,0.53,98.49
+ImPACT_BDT,TS,1,0.53,99.02
+hybrid k-NN,TS,1,0.53,99.55
+NOGWD Model,SC,1,0.53,100.08

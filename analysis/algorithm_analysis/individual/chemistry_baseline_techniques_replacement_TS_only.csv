@@ -1,0 +1,3 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+GDML,TS,8,88.89,88.89
+Lasso Regression,TS,1,11.11,100.0

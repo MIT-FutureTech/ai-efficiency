@@ -1,0 +1,17 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+k-NN,TS,2,11.11,11.11
+SVM,TS,2,11.11,22.22
+DT,TS,1,5.56,27.78
+Random Forest,TS,1,5.56,33.34
+NB,TS,1,5.56,38.9
+Linear Regression,TS,1,5.56,44.46
+DTR,TS,1,5.56,50.02
+SVR,TS,1,5.56,55.58
+Gaussian Process Regressor,TS,1,5.56,61.14
+KSVD,TS,1,5.56,66.7
+Projection Pursuit Regression (PPR),TS,1,5.56,72.26
+LOESS,TS,1,5.56,77.82
+STA/LTA,TS,1,5.56,83.38
+Kurtosis,TS,1,5.56,88.94
+FilterPicker,TS,1,5.56,94.5
+JMA Manual Picks,TS,1,5.56,100.06

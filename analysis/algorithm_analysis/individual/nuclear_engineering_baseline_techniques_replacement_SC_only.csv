@@ -1,0 +1,4 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Traditional Simulation Model,SC,11,84.62,84.62
+MLEM,SC,1,7.69,92.31
+EM,SC,1,7.69,100.0

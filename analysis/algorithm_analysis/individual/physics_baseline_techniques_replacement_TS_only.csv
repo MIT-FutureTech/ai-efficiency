@@ -1,0 +1,6 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,5,33.33,33.33
+PCE,TS,4,26.67,60.0
+ARIMA,TS,4,26.67,86.67
+Gaussian Processes,TS,1,6.67,93.34
+SVM,TS,1,6.67,100.01

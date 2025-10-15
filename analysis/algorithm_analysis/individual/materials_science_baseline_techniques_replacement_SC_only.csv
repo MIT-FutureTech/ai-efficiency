@@ -1,0 +1,4 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+All-Atom Simulation,SC,6,66.67,66.67
+TDDFT,SC,2,22.22,88.89
+FEM,SC,1,11.11,100.0

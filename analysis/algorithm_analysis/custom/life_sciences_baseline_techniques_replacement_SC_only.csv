@@ -1,0 +1,5 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Traditional Simulation Model,SC,3,33.33,33.33
+B-spline FFD,SC,3,33.33,66.66
+CFD,SC,2,22.22,88.88
+Structural Homology Baseline,SC,1,11.11,99.99

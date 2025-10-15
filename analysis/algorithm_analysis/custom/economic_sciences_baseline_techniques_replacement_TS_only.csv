@@ -1,0 +1,12 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+VAR,TS,27,27.0,27.0
+ARIMA,TS,27,27.0,54.0
+Longstaff-Schwartz Model,TS,19,19.0,73.0
+Logistic Regression,TS,10,10.0,83.0
+SVM,TS,5,5.0,88.0
+DARM,TS,4,4.0,92.0
+ML (Other),TS,3,3.0,95.0
+CART,TS,2,2.0,97.0
+SVR,TS,1,1.0,98.0
+CEEMDAN,TS,1,1.0,99.0
+Random Forest,TS,1,1.0,100.0

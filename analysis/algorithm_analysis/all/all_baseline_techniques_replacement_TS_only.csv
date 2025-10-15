@@ -1,0 +1,78 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,104,13.76,13.76
+Random Forest,TS,65,8.6,22.36
+SVM,TS,56,7.41,29.77
+Logistic Regression,TS,51,6.75,36.52
+ARIMA,TS,31,4.1,40.62
+SVC,TS,31,4.1,44.72
+SVR,TS,29,3.84,48.56
+VAR,TS,27,3.57,52.13
+NB,TS,19,2.51,54.64
+Longstaff-Schwartz Model,TS,19,2.51,57.15
+Random Forest Regressor (RFR),TS,18,2.38,59.53
+k-NN Regressor,TS,18,2.38,61.91
+k-NN,TS,17,2.25,64.16
+LDA,TS,16,2.12,66.28
+AdaBoost Regressor,TS,16,2.12,68.4
+DT,TS,16,2.12,70.52
+SVM (polynomial),TS,14,1.85,72.37
+SVM (radial-basis),TS,14,1.85,74.22
+SVM (sigmoid),TS,14,1.85,76.07
+SVM (linear kernel),TS,14,1.85,77.92
+XGBoost,TS,12,1.59,79.51
+Gaussian Processes,TS,11,1.46,80.97
+Bi-fidelity (BF),TS,9,1.19,82.16
+PLS-DA,TS,9,1.19,83.35
+AdaBoost,TS,9,1.19,84.54
+PCE,TS,8,1.06,85.6
+Linear Regression,TS,8,1.06,86.66
+GDML,TS,8,1.06,87.72
+Z-score,TS,7,0.93,88.65
+BDT,TS,7,0.93,89.58
+Ensemble Model,TS,6,0.79,90.37
+BoW + Logistic Regression,TS,6,0.79,91.16
+PCA + Mahalanobis distance,TS,5,0.66,91.82
+GB,TS,4,0.53,92.35
+DARM,TS,4,0.53,92.88
+GPR-MSM,TS,3,0.4,93.28
+M–σ,TS,3,0.4,93.68
+QRS,TS,2,0.26,93.94
+TSVD,TS,2,0.26,94.2
+GBDT,TS,2,0.26,94.46
+StationSeeker,TS,2,0.26,94.72
+BoW + SVM,TS,2,0.26,94.98
+BoW + Naive Bayes,TS,2,0.26,95.24
+SDM,TS,2,0.26,95.5
+CART,TS,2,0.26,95.76
+GMM,TS,1,0.13,95.89
+GLCM + Color-Space,TS,1,0.13,96.02
+GLMBOOST,TS,1,0.13,96.15
+GAMBOOST,TS,1,0.13,96.28
+DIS,TS,1,0.13,96.41
+GB (Granger Matrix),TS,1,0.13,96.54
+WT + SVM,TS,1,0.13,96.67
+Graph + SVM,TS,1,0.13,96.8
+Spectral Power + SVM,TS,1,0.13,96.93
+ImPACT,TS,1,0.13,97.06
+CEEMDAN,TS,1,0.13,97.19
+hybrid k-NN,TS,1,0.13,97.32
+SAPS-II,TS,1,0.13,97.45
+ImPACT_BDT,TS,1,0.13,97.58
+STA/LTA,TS,1,0.13,97.71
+DTR,TS,1,0.13,97.84
+SGD,TS,1,0.13,97.97
+Gaussian Process Regressor,TS,1,0.13,98.1
+KSVD,TS,1,0.13,98.23
+Transformer-based Model,TS,1,0.13,98.36
+ODP,TS,1,0.13,98.49
+JMA Manual Picks,TS,1,0.13,98.62
+FilterPicker,TS,1,0.13,98.75
+Kurtosis,TS,1,0.13,98.88
+AFQ Browser (linear z-score),TS,1,0.13,99.01
+PCA with Mahalanobis distance,TS,1,0.13,99.14
+Handcrafted Features Baseline,TS,1,0.13,99.27
+Lasso Regression,TS,1,0.13,99.4
+LOESS,TS,1,0.13,99.53
+Projection Pursuit Regression (PPR),TS,1,0.13,99.66
+GB (Pearson Matrix),TS,1,0.13,99.79
+Neural Networks (Other),TS,1,0.13,99.92

@@ -1,0 +1,8 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+ML (Other),TS,43,55.84,55.84
+Random Forest,TS,18,23.38,79.22
+All-Atom Simulation,SC,6,7.79,87.01
+k-NN,TS,4,5.19,92.2
+XGBoost,TS,3,3.9,96.1
+TDDFT,SC,2,2.6,98.7
+FEM,SC,1,1.3,100.0

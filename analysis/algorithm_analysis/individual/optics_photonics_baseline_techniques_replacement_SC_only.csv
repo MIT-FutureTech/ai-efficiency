@@ -1,0 +1,8 @@
+baseline_method,baseline_type,count,percentage,cumulative_percentage
+Lumerical MODE Model,SC,4,40.0,40.0
+FDTD,SC,1,10.0,50.0
+FVFDM,SC,1,10.0,60.0
+FEM,SC,1,10.0,70.0
+Traditional Simulation Model,SC,1,10.0,80.0
+Interior-Point Model,SC,1,10.0,90.0
+Direct Topology Model,SC,1,10.0,100.0
